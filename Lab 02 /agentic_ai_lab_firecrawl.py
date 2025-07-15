@@ -6,7 +6,7 @@ import requests
 from fpdf import FPDF
 
 # === CONFIGURATION ===
-FIRECRAWL_API_KEY = 'fc-271931e3dab44a52be61c722d63b8d8d'
+FIRECRAWL_API_KEY = ''
 FIRECRAWL_URL = 'https://api.firecrawl.dev/v1/scrape'
 MODEL_NAME = 'mistral'
 
